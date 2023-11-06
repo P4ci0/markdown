@@ -1,0 +1,191 @@
++-----------------------------------------------------------------------+
+|   ------------------------------------------------------------------  |
+|   Świat elektroniki                                                   |
+|   ------------------------------------------------------------------  |
+|                                                                       |
+|   ------------------------------------------------------------------  |
++=======================================================================+
++-----------------------------------------------------------------------+
+
+Bartłomiej Kornakiewicz
+
+2023
+
+![](vertopal_bdf4580bc8c148fb9fa9d57f28479350/media/image1.png){width="1.7361111111111112in"
+height="8.333333333333333e-2in"}
+
++-----------------------------------+-----------------------------------+
+| Bartłomiej Kornakiewicz           | > Świat elektroniki               |
++===================================+===================================+
++-----------------------------------+-----------------------------------+
+
+> [Elektronika]{.underline}
+>
+> Jest to dziedzina nauki i techniki zajmująca sie przetwarzaniem i
+> wytwarzaniem różnego rodzaju sygnałów w postaci napięć i prądów oraz
+> wykorzystująca zajwiska związane z ruchem elektronów\
+> wpróżni, gazach i ciałach stałych.
+
+![](vertopal_bdf4580bc8c148fb9fa9d57f28479350/media/image1.png){width="1.7361111111111112in"
+height="8.333333333333333e-2in"}
+
++-----------------------------------+-----------------------------------+
+| Bartłomiej Kornakiewicz           | > Świat elektroniki               |
++===================================+===================================+
++-----------------------------------+-----------------------------------+
+
+> [Historia elektroniki]{.underline}
+>
+> XIX wiek: Odkrycie elektronów.
+>
+> 1897: Wynalezienie lampy próżniowej.
+>
+> 1947: Odkrycie tranzystora.
+>
+> 1950-1960: Rozwój układów scalonych.
+>
+> 1970-1980: Era mikroprocesorów.
+>
+> XXI wiek: Rozwój telekomunikacji i nanoelektroniki.
+
+![](vertopal_bdf4580bc8c148fb9fa9d57f28479350/media/image1.png){width="1.7361111111111112in"
+height="8.333333333333333e-2in"}
+
++-----------------------------------+-----------------------------------+
+| Bartłomiej Kornakiewicz           | > Świat elektroniki               |
++===================================+===================================+
++-----------------------------------+-----------------------------------+
+
+> [Podstawowe elementy elektroniczne]{.underline}
+>
+> Rezystor-jest to element, którego najważniejszym parametrem jest
+> rezystancja, a inne parametry takie jak pojemość i\
+> indukcyjność powinny być jak najmniejsze.
+>
+> Kondensator-Kondensatorem nazywamy układ dwóch lub wiecej przewodników
+> (okładzin) odizolowanych od siebie dielektrykiem. Zadaniem
+> kondensatora jest gromadzenie ładunków elektrycznych.
+>
+> Cewka-Cewką nazywamy zwojnicę, którym podstawownym parametrem jest
+> indukcyjność.Indukcyjność określa zdolność cewki do przeciwstawiania
+> się zmianom prądu płynącego przez cewkę.
+
+![](vertopal_bdf4580bc8c148fb9fa9d57f28479350/media/image1.png){width="1.7361111111111112in"
+height="8.333333333333333e-2in"}
+
++-----------------------------------+-----------------------------------+
+| Bartłomiej Kornakiewicz           | > Świat elektroniki               |
++===================================+===================================+
++-----------------------------------+-----------------------------------+
+
+> [Napięcie i prąd]{.underline}
+>
+> Napięcie jest to różnica potencjałów. Podstaje pod czas rodzialania
+> ładunków różnoimiennych.Wrażamy jednostką (V) wolt.
+>
+> Prąd określa szybkość przepływu ładunków. Wyrażamy jednostką (A) Amper
+
+![](vertopal_bdf4580bc8c148fb9fa9d57f28479350/media/image1.png){width="1.7361111111111112in"
+height="8.333333333333333e-2in"}
+
++-----------------------------------+-----------------------------------+
+| Bartłomiej Kornakiewicz           | > Świat elektroniki               |
++===================================+===================================+
++-----------------------------------+-----------------------------------+
+
+> [Prawo Ohma]{.underline}
+>
+> Wzór ten oznacza, że stosunek różnicy potencjałów między
+>
+> końcami przewodnika, względem natężenia płynącego prądu, jest
+>
+> stały. Stała wartość to opór elektryczny przewodnika.Prawo te
+>
+> określane jest wzorem: *R* =*[U]{.underline} I*Gdzie R-rezystancja(Ω)
+> U-Napięcie
+>
+> \(V\) I-Prąd (A)
+
+![](vertopal_bdf4580bc8c148fb9fa9d57f28479350/media/image1.png){width="1.7361111111111112in"
+height="8.333333333333333e-2in"}
+
++-----------------------------------+-----------------------------------+
+| Bartłomiej Kornakiewicz           | > Świat elektroniki               |
++===================================+===================================+
++-----------------------------------+-----------------------------------+
+
+> [Układy analogowe i cyfrowe]{.underline}
+>
+> ![](vertopal_bdf4580bc8c148fb9fa9d57f28479350/media/image2.png){width="4.318054461942257in"
+> height="2.2694444444444444in"}
+
+![](vertopal_bdf4580bc8c148fb9fa9d57f28479350/media/image1.png){width="1.7361111111111112in"
+height="8.333333333333333e-2in"}
+
++-----------------------------------+-----------------------------------+
+| Bartłomiej Kornakiewicz           | > Świat elektroniki               |
++===================================+===================================+
++-----------------------------------+-----------------------------------+
+
+> [Zastosowania elektroniki]{.underline}
+>
+> Elektronika odgrywa bardzo ważną role w naszym życiu\
+> codziennym. Elektronika jest dosłownie wszędzie: w szkole, w pracy, w
+> samochodach, w domach itp. Dzięki jej możemy niektóre czynności
+> wykonywać o wiele szybciej dokładniej a czasami\
+> możemy niektóre czynności zostawić do wykonania elektronice. Jednym z
+> najczęściej spotykanym udogodnieniem w życiu niemalże każdego
+> człowkieka jest telefon, pozwla on na komunikajce,\
+> wysyłanie wiadomości, robie zdjęć, pisanie mail, przeglądanie stron
+> internetowych i wiele innych.
+
+![](vertopal_bdf4580bc8c148fb9fa9d57f28479350/media/image1.png){width="1.7361111111111112in"
+height="8.333333333333333e-2in"}
+
++-----------------------------------+-----------------------------------+
+| Bartłomiej Kornakiewicz           | > Świat elektroniki               |
++===================================+===================================+
++-----------------------------------+-----------------------------------+
+
+> [Inne zastosowania elektroniki]{.underline}
+>
+> Medycyna- różnego rodzaju badania,pomiary takie jak: rezonans
+> magnetyczny,EKG,RTG,badanie ciśnienia krwi, respiratory i wiele
+> innych.
+>
+> Motoryzacja- różnego rodzaju systemy bezpieczeństwa, mulitimedialne
+> oraz sterowniki:systemy sterowania pracą silnika, ABS, kontrola
+> trakcji, ESP itp.
+>
+> Przemysł-Zarządzanie pracą maszyn, automatyzacja procesów
+> produkcyjnych, systemy monitoringu i kontroli jakości,\
+> Systemy Monitoringu i Kontroli Jakości oraz wiele innych zastosowań.
+
+![](vertopal_bdf4580bc8c148fb9fa9d57f28479350/media/image1.png){width="1.7361111111111112in"
+height="8.333333333333333e-2in"}
+
++-----------------------------------+-----------------------------------+
+| Bartłomiej Kornakiewicz           | > Świat elektroniki               |
++===================================+===================================+
++-----------------------------------+-----------------------------------+
+
+> [Podsumowanie]{.underline}
+>
+> Ogólnie rzecz biorąc, elektronika stanowi nieodłączną część\
+> naszego życia, a także kluczowy element wielu dziedzin, w tym
+> medycyny, przemysłu i motoryzacji. Ta technologia umożliwia nam
+> monitorowanie, kontrolowanie i optymalizowanie różnych aspektów naszej
+> codzienności. W medycynie pomaga w diagnostyce i\
+> leczeniu, w przemyśle automatyzuje procesy produkcyjne, a w
+> samochodach wprowadza innowacje, które poprawiają\
+> bezpieczeństwo i komfort jazdy.Dzięki nieustannemu rozwojowi i
+> postępowi technologicznemu, elektronika ma potencjał do dalszego
+> wpływania na nasze życie, przynosząc nowe możliwości i wyzwania.
+
+![](vertopal_bdf4580bc8c148fb9fa9d57f28479350/media/image1.png){width="1.7361111111111112in"
+height="8.333333333333333e-2in"}
+
++-----------------------------------+-----------------------------------+
+| Bartłomiej Kornakiewicz           | > Świat elektroniki               |
++===================================+===================================+
++-----------------------------------+-----------------------------------+
